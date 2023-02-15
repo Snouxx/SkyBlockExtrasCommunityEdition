@@ -19,7 +19,7 @@
         <img src="https://img.shields.io/github/contributors/NotEnoughUpdates/NotEnoughUpdates?color=informational&logo=GitHub" alt="contributors">
     </a>
     <!-- discord -->
-    <a href="https://discord.gg/moulberry" target="_blank">
+    <a href="https://discord.gg/sbe" target="_blank">
         <img src="https://img.shields.io/discord/516977525906341928?label=discord&color=informational&logo=Discord&logoColor=FFFFFF" alt="discord">
     </a>
     <!-- downloads -->
